@@ -1,0 +1,14 @@
+body{
+  background-color: maroon;
+}
+h1{
+  border: 2px double red;
+  border-radius: 20px;
+  background-color:red;
+  color: white;
+  text-align: center;
+}
+form{
+  color: white;
+  font-size: 20px;
+}
